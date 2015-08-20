@@ -1,2 +1,3 @@
-# QB
-123123
+
+# TwoRepository
+这是第二个github仓库
